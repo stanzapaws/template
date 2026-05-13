@@ -2,7 +2,7 @@
 
 <!-- What does this pull request change? Be specific and concise. -->
 
-> **Closes #<!-- The issue number that is closed via this pull request. -->.**
+> **Closes #[ISSUE_NUMBER].**
 
 ## Checklist
 
