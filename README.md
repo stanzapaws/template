@@ -1,6 +1,9 @@
 <!-- You might want to use the Find & Replace tool in your editor to replace all mentions of "Template" (match caps) with your project's name. -->
 
-# Template
+<h1>
+  <img src="./assets/icon.svg" width="30" style="vertical-align: middle;">
+  Template
+</h1>
 
 > <!-- A short description of your project. Ideally, it should be about three sentences, and shouldn't contain technical terminology. If your reader has no clue what your project is, this block should tell them about it without having to read the rest. -->
 
