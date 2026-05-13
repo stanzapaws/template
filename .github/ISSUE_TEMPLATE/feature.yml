@@ -3,7 +3,7 @@ description: Suggest a new feature for the project
 title: "Feature: "
 
 body:
-  - type: input
+  - type: textarea
     id: feature_description
     attributes:
       label: Feature Description
