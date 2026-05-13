@@ -21,7 +21,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Describe the bug in detail, including steps to reproduce it and any relevant information.
+      description: Describe the bug in detail, including any relevant information.
     validations:
       required: true
   - type: textarea
