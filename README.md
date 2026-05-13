@@ -1,7 +1,7 @@
 <!-- You might want to use the Find & Replace tool in your editor to replace all mentions of "Template" (match caps) with your project's name. -->
 
 <h1>
-  <img src="./assets/icon.svg" width="30" style="vertical-align: middle;">
+  <img src="./assets/icon.svg" alt="Template project icon" width="30" style="vertical-align: middle;">
   Template
 </h1>
 
